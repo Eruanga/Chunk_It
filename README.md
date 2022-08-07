@@ -50,6 +50,7 @@ into your dashboard
 Only upload your large CSV or Json files for chunking, other formats are currently not available.
 
 **Download or save for later:**
+
 ● Download button;
 When selected will download your chunked file directly into your downloads folder
 
